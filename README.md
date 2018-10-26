@@ -1,4 +1,4 @@
 # quack-forward
 
 # I learnt how to train:
-![image](./mainRevise01QQ01CL01PP03.png)
+![image](https://github.com/chenhpchen/quack-forward/blob/master/mainRevise01QQ01CL01PP03.png)
